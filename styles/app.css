@@ -26,3 +26,15 @@ body, html
 	margin: 0;
 }
 
+.info
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background: #fff;
+}
+
+.info__content
+{
+	padding: 5px;
+}
