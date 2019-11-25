@@ -65,9 +65,9 @@ function CheckAction()
 			{
 				msg = "Swipe Left";
 			}
-			else //Rigth
+			else //Right
 			{
-				msg = "Swipe Rigth";
+				msg = "Swipe Right";
 			}
 		}
 	}
